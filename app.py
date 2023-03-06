@@ -27,7 +27,7 @@ def main():
     
     # Título
     html_temp = """
-    <h1 style="color:#181082;text-align:center;">SISTEMA DE RECOMENDACIÓN PARA CULTIVO </h1>
+    <h1 style="color:#181082;text-align:center;">SISTEMA DE RECOMENDACIÓN PARA CULTIVO BASADO CON UN MODELO DE MACHINE LEARNING</h1>
     </div>
     """
     st.markdown(html_temp,unsafe_allow_html=True)
